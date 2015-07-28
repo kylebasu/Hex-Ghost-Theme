@@ -5,7 +5,7 @@ var ThemeOptions =
 	show_blog_title : false, // true or false - default : false
 	show_blog_description : true, // true or false - default : true
 
-	background_type : 'cover - default: extra/photo-1427805371062-cacdd21273f1.jpeg', // cover or repeat - default : cover and Blog Cover file (extra/alaska_cover.jpg)
+	background_type : 'cover - default' // cover or repeat - default : cover and Blog Cover file (extra/alaska_cover.jpg)
 	background_color : '#f0f0f0', // background color if there is no image at blog's cover - default: #f0f0f0
 
 	hex_background : '#fff', // default background color for non featured hexagons - default : #fff
